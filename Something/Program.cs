@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -9,7 +9,7 @@ namespace Something
 
     public class Program
     {
-        public static List<Employee> employees = new List<Employee>();
+        public static Employee[] employees = Array.Empty<Employee>();
 
         public static double CalculateSalary()
         {
@@ -27,6 +27,12 @@ namespace Something
             return totalSalary;
         }
 
+        public static void Add(Employee e)
+        {
+            Array.Resize(ref employees, employees.Length+1);
+            employees[^1] = e;
+        }
+
         public static void Main()
         {
             try
@@ -34,8 +40,8 @@ namespace Something
                 Employee emp1 = new Employee("Name1 Surname1", "HR", 20, 20, 1000);
                 Employee emp2 = new Employee("Name2 Surname2", "IT", 25, 5, 2000);
 
-                employees.Add(emp1);
-                employees.Add(emp2);
+                Add(emp1);
+                Add(emp2);
 
 
                 double totalSalary = CalculateSalary();
