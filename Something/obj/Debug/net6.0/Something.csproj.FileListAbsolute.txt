@@ -1,0 +1,14 @@
+C:\Users\Es\source\repos\HomeWork\Something\Something\bin\Debug\net6.0\Something.exe
+C:\Users\Es\source\repos\HomeWork\Something\Something\bin\Debug\net6.0\Something.deps.json
+C:\Users\Es\source\repos\HomeWork\Something\Something\bin\Debug\net6.0\Something.runtimeconfig.json
+C:\Users\Es\source\repos\HomeWork\Something\Something\bin\Debug\net6.0\Something.dll
+C:\Users\Es\source\repos\HomeWork\Something\Something\bin\Debug\net6.0\Something.pdb
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\Something.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\Something.AssemblyInfoInputs.cache
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\Something.AssemblyInfo.cs
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\Something.csproj.CoreCompileInputs.cache
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\Something.dll
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\refint\Something.dll
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\Something.pdb
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\Something.genruntimeconfig.cache
+C:\Users\Es\source\repos\HomeWork\Something\Something\obj\Debug\net6.0\ref\Something.dll
