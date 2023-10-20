@@ -19,7 +19,7 @@ namespace Something
 
                 FieldInfo salaryField = employee.GetType().GetField("_salary", BindingFlags.NonPublic | BindingFlags.Instance);
 
-                double salary = (double) salaryField.GetValue(employee);
+                double salary = Convert.ToDouble(salaryField.GetValue(employee));
 
                 totalSalary += salary;
                 
